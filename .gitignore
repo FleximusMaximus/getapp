@@ -1,0 +1,6 @@
+# Ignore everything by default to keep code private
+*
+
+# Allow the README and this ignore file
+!README.md
+!.gitignore
